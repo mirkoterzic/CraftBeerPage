@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Mirko Terzic",
   "license": "ISC",
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
