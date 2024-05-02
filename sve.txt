@@ -1,0 +1,36 @@
+ <div class="home">
+      <h1>Discover the World of Craft Beer</h1>
+    <div class="break"></div>
+      <p>Explore a wide selection of artisanal brews from around the globe. From hoppy IPAs to rich stouts, we have something for every beer lover.</p>
+      
+    </div>
+
+    
+    
+<div class="menu">
+    <div class="menu-item"><img src="./asstets/1019.png" alt="" srcset=""></div>
+    <div class="menu-item"><img src="./asstets/albino.png" alt="" srcset=""></div>
+    <div class="menu-item"><img src="./asstets/benedict.png" alt="" srcset=""></div>
+    <div class="menu-item"><img src="./asstets/DockersBrazil.png" alt="" srcset=""></div>
+    <div class="menu-item"><img src="./asstets/dramaticnjak.png" alt="" srcset=""></div>
+    <div class="menu-item"><img src="./asstets/flyingDogma.png" alt="" srcset=""></div>
+    <div class="menu-item"><img src="./asstets/hoptopod.png" alt="" srcset=""></div>
+    <div class="menu-item"><img src="./asstets/lokalac.png" alt="" srcset=""></div>
+    <div class="menu-item"><img src="./asstets/svetionik.png" alt="" srcset=""></div>
+    <div class="menu-item"><img src="./asstets/trkac.png" alt="" srcset=""></div>
+    </div>
+
+
+ <div class="about-us">
+        <h1>About us</h1>
+      <div class="part1">
+        <img src="./asstets/fake-owners.jpg" alt="" class="round-image">
+        <p>At our craft brewery, we're more than just passionate beer enthusiasts—we're two friends united by our love for quality brews and the community that surrounds us. What started as a shared dream over pints at our local pub has blossomed into a vibrant brewery dedicated to crafting exceptional beers that reflect the unique flavors of our region. With each batch, we infuse our beers with the spirit of camaraderie and the essence of our local terroir, ensuring that every sip tells a story of friendship and locality.</p>
+      </div>
+      <div class="part2">
+        <p>Here at [Brewery Name], freshness isn't just a buzzword—it's a way of life. We believe that great beer starts with great ingredients, which is why we're committed to sourcing only the freshest, highest-quality produce from local farmers and suppliers. From crisp hops grown in nearby fields to rich barley harvested just miles away, every element of our brewing process reflects our dedication to supporting local agriculture and reducing our carbon footprint. By harnessing the bounty of our region, we not only create beers of unparalleled freshness and flavor but also champion the vibrant community that sustains us. Join us on our journey as we raise a glass to friendship, flavor, and the endless possibilities of craft brewing. Cheers!</p>
+        <img src="./asstets/beer-foam.jpg" alt="" class="round-image">
+      </div>
+      </div>
+
+
