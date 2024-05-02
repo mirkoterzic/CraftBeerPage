@@ -21,4 +21,23 @@ module.exports = {
     filename: "main.js",
     path: path.resolve(__dirname, "dist"),
   },
+  module: {
+    rules: [
+      {
+        test: /\.(png|jpg|jpeg|gif|svg)$/i,
+        use: [
+          {
+            loader: "file-loader",
+            options: {
+              outputPath: "images", // Specify the output path for images
+            },
+          },
+        ],
+      },
+      {
+        test: /\.css$/,
+        use: ["style-loader", "css-loader"],
+      },
+    ],
+  },
 };
