@@ -1,10 +1,15 @@
 # CraftBeerPage
 
-Project of a tab based website using webpack .
+CraftBeerPage is a project of a tab-based website built using webpack.
 
-Credits form images :
-"two men with beer" from about tab -https://unsplash.com/photos/two-men-tasting-beer-near-cylindrical-tanks-Cdq3ziSoeGY
-"beerFoam" from about tab - https://unsplash.com/photos/a-close-up-of-a-glass-of-beer-with-drops-of-water-Lq1rOaigDoY
-"beerpour" from home tab - https://unsplash.com/photos/person-filling-clear-glass-with-liquid-8T5UAV6KkZA
+## Image Credits
 
-All the pictures used for the menu are from a famous craft brewery in Belgrade,Serbia and it's called Dogma the offical site is https://dogmabrewery.com/
+### About Tab:
+- "Two Men with Beer" - [Unsplash](https://unsplash.com/photos/two-men-tasting-beer-near-cylindrical-tanks-Cdq3ziSoeGY)
+- "Beer Foam" - [Unsplash](https://unsplash.com/photos/a-close-up-of-a-glass-of-beer-with-drops-of-water-Lq1rOaigDoY)
+
+### Home Tab:
+- "Beer Pour" - [Unsplash](https://unsplash.com/photos/person-filling-clear-glass-with-liquid-8T5UAV6KkZA)
+
+## Menu Images
+All the pictures used for the menu are from a famous craft brewery in Belgrade, Serbia called Dogma. You can find more about Dogma Brewery on their official website: [Dogma Brewery](https://dogmabrewery.com/)
