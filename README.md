@@ -13,3 +13,18 @@ CraftBeerPage is a project of a tab-based website built using webpack.
 
 ## Menu Images
 All the pictures used for the menu are from a famous craft brewery in Belgrade, Serbia called Dogma. You can find more about Dogma Brewery on their official website: [Dogma Brewery](https://dogmabrewery.com/)
+
+
+## Technologies
+
+This project utilizes several technologies:
+
+- **HTML**: The structure of the web pages is built using HTML.
+- **CSS**: Styling and design elements are implemented using CSS.
+- **JavaScript**: Interactivity and dynamic content are added using JavaScript.
+- **Webpack**: Bundling and managing dependencies are handled by webpack.
+
+# Live Preview 
+
+Craft Beer Page - [Live Preview](https://mirkoterzic.github.io/CraftBeerPage/)
+
